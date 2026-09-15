@@ -1,2 +1,4 @@
 # randaru.github.io
-About me
+
+I gather interesting stuff here
+
